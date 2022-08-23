@@ -10,5 +10,6 @@ class sumofdigits{
 			x/=10;	
 		}
 		System.out.println("sum is : "+sum);
+		System.out.println("hello there");
 	}
 }
